@@ -25,5 +25,3 @@ Throughout the project, the following advanced functionalities were implemented:
 * **Automation**: Implementation of `Sequences` for auto-generating primary keys for payments.
 * **Security & Maintenance**: Use of `Flashback` commands for recovering accidentally dropped tables.
 
-## Author
-Project created by Celmare Miruna-Ştefana.
